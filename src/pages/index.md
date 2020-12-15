@@ -32,57 +32,6 @@ sections:
         new_window: false
         no_follow: false
         type: action
-  - type: section_features
-    template: section_features
-    title: Features
-    section_id: features
-    subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
-    background: gray
-    features:
-      - type: feature_item
-        template: feature_item
-        title: The Best Feature of Your Services
-        content: >-
-          Nam pulvinar ante eu ultricies volutpat. Aenean hendrerit, eros sed
-          aliquet luctus, lorem risus volutpat dolor, nec dignissim diam neque
-          consequat ex.
-        image: images/feature1.png
-        image_alt: App preview on a phone and tablet
-        actions:
-          - type: action
-            template: action
-            label: Learn More
-            url: /features
-      - type: feature_item
-        template: feature_item
-        title: Awesome Feature of Your Services
-        content: >-
-          Etiam vel urna sed massa egestas vulputate eu a velit. Sed ut nisl nec
-          sapien interdum luctus. Cras rhoncus condimentum metus sit amet
-          auctor.
-        image: images/feature2.png
-        image_alt: App users welcoming a new member
-        actions:
-          - type: action
-            template: action
-            label: Learn More
-            url: /features
-      - type: feature_item
-        template: feature_item
-        title: Cool Feature of Your Services
-        content: >-
-          In ante enim, lobortis quis congue vel, finibus sit amet mi. Aenean
-          quis venenatis sem. Proin eget massa id metus eleifend maximus sit
-          amet nec urna.
-        image: images/feature3.png
-        image_alt: App user profile preview
-        actions:
-          - type: action
-            template: action
-            label: Learn More
-            url: /features
   - type: section_reviews
     template: section_reviews
     title: Testimonials
