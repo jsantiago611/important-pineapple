@@ -24,7 +24,7 @@ sections:
         new_window: false
         no_follow: false
         type: action
-      - label: lorem-ipsum
+      - label: Life Insurance
         url: lorem-ipsum
         primary: false
         new_window: false
