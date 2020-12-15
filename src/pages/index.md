@@ -18,7 +18,7 @@ sections:
         label: Home Insurance
         url: /features
         primary: true
-      - label: lorem-ipsum
+      - label: Auto Insurance
         url: lorem-ipsum
         primary: false
         new_window: false
