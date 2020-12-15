@@ -1,0 +1,34 @@
+---
+label: Header Configuration
+hide_body: true
+fields:
+- type: file
+  name: logo_img
+  label: Logo
+  description: >-
+    The logo image displayed in the header (if no logo added, the site title is
+    displayed instead)
+- type: boolean
+  name: has_nav
+  label: Enable Navigation Menu
+  description: Display the navigation menu bar in the header
+  default: true
+- type: field_group_list
+  name: nav_links
+  label: Navigation Menu Links
+  description: List of navigation links in header
+  fields:
+  - type: include
+    name: include_action
+    label: Action
+    template: action
+  config:
+    labelField: label
+- type: text
+  name: type
+  label: Object Type
+  description: The type of the object
+  hidden: true
+  default: header
+  config:
+    required: true

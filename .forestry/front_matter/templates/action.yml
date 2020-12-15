@@ -1,0 +1,37 @@
+---
+label: Action
+hide_body: true
+display_field: label
+fields:
+- type: text
+  name: label
+  label: Label
+  config:
+    required: true
+- type: text
+  name: url
+  label: URL
+  config:
+    required: true
+- type: boolean
+  name: primary
+  label: Primary
+  description: Use primary color for this action
+- type: boolean
+  name: new_window
+  label: Open in new window
+  description: Should the link open a new tab
+  default: false
+- type: boolean
+  name: no_follow
+  label: No follow
+  description: Add rel="nofollow" attribute to the link
+  default: false
+- type: text
+  name: type
+  label: Object Type
+  description: The type of the object
+  hidden: true
+  default: action
+  config:
+    required: true
