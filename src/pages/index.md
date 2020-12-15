@@ -7,7 +7,11 @@ sections:
     template: section_hero
     title: This Is A Big Hero Headline
     section_id: hero
-    content: Just select a product to start your quote
+    content: >+
+      From car, house, life, and business insurance, we make insurance for
+      families and businesses easy again. Choose your option below to get
+      started in a matter of seconds:
+
     image: images/hero.png
     image_alt: App preview
     actions:
