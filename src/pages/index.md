@@ -15,7 +15,7 @@ sections:
     actions:
       - type: action
         template: action
-        label: Learn More
+        label: Home Insurance
         url: /features
         primary: true
       - label: lorem-ipsum
