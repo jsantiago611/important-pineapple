@@ -24,6 +24,12 @@ sections:
         new_window: false
         no_follow: false
         type: action
+      - label: lorem-ipsum
+        url: lorem-ipsum
+        primary: false
+        new_window: false
+        no_follow: false
+        type: action
   - type: section_features
     template: section_features
     title: Features
