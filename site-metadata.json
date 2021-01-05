@@ -15,12 +15,6 @@
             {
                 "type": "action",
                 "template": "action",
-                "label": "Style Guide",
-                "url": "/style-guide"
-            },
-            {
-                "type": "action",
-                "template": "action",
                 "label": "Newsletter",
                 "url": "/signup",
                 "primary": true
