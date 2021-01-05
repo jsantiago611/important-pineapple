@@ -5,7 +5,7 @@ meta_description: The preview of the Azimuth theme
 sections:
   - type: section_hero
     template: section_hero
-    title: 'Hello, I''m Jon'
+    title: 'Hello, I''m Jonathan'
     section_id: hero
     content: >+
       From car, house, life, and business insurance, we make insurance for
