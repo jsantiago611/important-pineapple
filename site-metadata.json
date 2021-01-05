@@ -33,7 +33,7 @@
             {
                 "type": "action",
                 "template": "action",
-                "label": "Sign Up",
+                "label": "Newsletter",
                 "url": "/signup",
                 "primary": true
             }
