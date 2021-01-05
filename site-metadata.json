@@ -13,19 +13,19 @@
                 "url": "/"
             },
             {
-                "type": "action",
-                "template": "action",
-                "label": "Newsletter",
-                "url": "/signup",
-                "primary": true
-            },
-            {
                 "label": "lorem-ipsum",
                 "url": "lorem-ipsum",
                 "primary": false,
                 "new_window": false,
                 "no_follow": false,
                 "type": "action"
+            },
+            {
+                "type": "action",
+                "template": "action",
+                "label": "Newsletter",
+                "url": "/signup",
+                "primary": true
             }
         ]
     },
