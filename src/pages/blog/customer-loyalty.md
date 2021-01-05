@@ -1,5 +1,5 @@
 ---
-title: G
+title: Sample POST
 subtitle: A story about customer loyalty
 date: '2019-04-23'
 author: src/data/authors/jane-doe.yaml
