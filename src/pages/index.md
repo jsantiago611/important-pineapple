@@ -29,5 +29,11 @@ sections:
         label: Get Started
         url: /signup
         primary: true
+  - title: lorem-ipsum
+    section_id: lorem-ipsum
+    subtitle: lorem-ipsum
+    background: gray
+    type: section_posts
+    template: section_posts
 template: landing
 ---
