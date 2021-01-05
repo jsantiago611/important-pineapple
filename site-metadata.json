@@ -32,7 +32,7 @@
     "footer": {
         "type": "footer",
         "template": "footer",
-        "tagline": "SaaS theme by Stackbit",
+        "tagline": "",
         "has_nav": true,
         "nav_title": "Company",
         "nav_links": [
