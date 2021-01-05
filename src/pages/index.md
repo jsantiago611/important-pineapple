@@ -13,7 +13,7 @@ sections:
       the big ideas you can use to parent better and smarter.
 
 
-      **I’m learning a lot and so will you //**
+      **I’M LEARNING A LOT AND SO WILL YOU! **
 
     image: images/hero.png
     image_alt: App preview
