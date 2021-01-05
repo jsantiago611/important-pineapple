@@ -13,7 +13,7 @@
                 "url": "/"
             },
             {
-                "label": "lorem-ipsum",
+                "label": "Book Summaries",
                 "url": "lorem-ipsum",
                 "primary": false,
                 "new_window": false,
