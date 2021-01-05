@@ -18,11 +18,6 @@ sections:
     image: images/hero.png
     image_alt: App preview
     actions:
-      - type: action
-        template: action
-        label: Home Insurance
-        url: /features
-        primary: true
       - label: Auto Insurance
         url: lorem-ipsum
         primary: false
