@@ -18,12 +18,6 @@ sections:
     image: images/hero.png
     image_alt: App preview
     actions:
-      - label: Auto Insurance
-        url: lorem-ipsum
-        primary: false
-        new_window: false
-        no_follow: false
-        type: action
       - label: Life Insurance
         url: lorem-ipsum
         primary: false
