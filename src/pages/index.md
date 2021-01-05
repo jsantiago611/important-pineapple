@@ -18,7 +18,7 @@ sections:
     image: images/hero.png
     image_alt: App preview
     actions: []
-  - title: lorem-ipsum
+  - title: A FEW OF MY FAVORITES
     section_id: lorem-ipsum
     subtitle: lorem-ipsum
     background: gray
