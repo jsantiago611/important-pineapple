@@ -15,7 +15,6 @@ sections:
 
       **I’M LEARNING A LOT AND SO WILL YOU!** 
 
-    image: images/hero.png
     image_alt: App preview
     actions: []
   - title: A FEW OF MY FAVORITES
