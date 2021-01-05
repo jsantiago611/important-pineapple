@@ -4,20 +4,20 @@
 
 @font-face {
    font-family: 'Founders';
-   src: url('../fonts/founders-grotesk-test-regular.eot');
-   src: url('../fonts/founders-grotesk-test-regular.eot?#iefix') format('embedded-opentype'),
-        url('../fonts/founders-grotesk-test-regular.woff') format('woff2'),
-        url('../fonts/founders-grotesk-test-regular.woff') format('woff');
+   src: url('/fonts/founders-grotesk-test-regular.eot');
+   src: url('/fonts/founders-grotesk-test-regular.eot?#iefix') format('embedded-opentype'),
+        url('/fonts/founders-grotesk-test-regular.woff') format('woff2'),
+        url('/fonts/founders-grotesk-test-regular.woff') format('woff');
    font-weight: 400;
    font-style: normal;
 }
  
 @font-face {
    font-family: 'Founders';
-   src: url('../fonts/founders-grotesk-test-regular-italic.eot');
-   src: url('../fonts/founders-grotesk-test-regular-italic.eot?#iefix') format('embedded-opentype'),
-        url('../fonts/founders-grotesk-test-regular-italic.woff2') format('woff2'),
-        url('../fonts/founders-grotesk-test-regular-italic') format('woff');
+   src: url('/fonts/founders-grotesk-test-regular-italic.eot');
+   src: url('/fonts/founders-grotesk-test-regular-italic.eot?#iefix') format('embedded-opentype'),
+        url('/fonts/founders-grotesk-test-regular-italic.woff2') format('woff2'),
+        url('/fonts/founders-grotesk-test-regular-italic') format('woff');
    font-weight: 400;
    font-style: italic;
 }
