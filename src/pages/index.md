@@ -12,7 +12,7 @@ sections:
       books of all-time. Then, in my weekly newsletter "The Progress Report", I
       share the big ideas you can use to parent better and smarter.
        
-      #### I’M LEARNING A LOT AND SO WILL YOU! 
+      #### I'm learning a lot, and so will you.
 
     image_alt: App preview
     actions: []
