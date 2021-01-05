@@ -24,7 +24,7 @@
                 "type": "action",
                 "template": "action",
                 "label": "Newsletter",
-                "url": "/signup",
+                "url": "parentsprogress.substack.com",
                 "primary": true
             }
         ]
