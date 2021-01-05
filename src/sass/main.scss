@@ -4,14 +4,14 @@
 
 @font-face {
    font-family: 'Founder';
-        src: local('/fonts/FoundersGrotTest-Regular.woff') format('woff');
+   src: url('../fonts/FoundersGrotTest-Regular.woff') format('woff');
    font-weight: 400;
    font-style: normal;
 }
  
 @font-face {
    font-family: 'Founder';
-        src: local('../fonts/FoundersGrotTest-Regular.woff') format('woff');
+   src: url('../fonts/FoundersGrotTest-RegularItalic.woff') format('woff');
    font-weight: 400;
    font-style: italic;
 }
