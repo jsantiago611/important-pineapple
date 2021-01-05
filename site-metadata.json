@@ -23,7 +23,7 @@
             {
                 "type": "action",
                 "template": "action",
-                "label": "Newsletter",
+                "label": "NEWSLETTER",
                 "url": "parentsprogress.substack.com",
                 "primary": true
             }
