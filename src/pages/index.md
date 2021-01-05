@@ -11,9 +11,7 @@ sections:
       ######  I take brief but concise notes from the best Christian non-fiction
       books of all-time. Then, in my weekly newsletter "The Progress Report", I
       share the big ideas you can use to parent better and smarter.
-
-      ###### 
-
+       
       ###### I’M LEARNING A LOT AND SO WILL YOU! 
 
     image_alt: App preview
