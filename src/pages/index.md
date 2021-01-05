@@ -17,13 +17,7 @@ sections:
 
     image: images/hero.png
     image_alt: App preview
-    actions:
-      - label: Life Insurance
-        url: lorem-ipsum
-        primary: false
-        new_window: false
-        no_follow: false
-        type: action
+    actions: []
   - type: section_reviews
     template: section_reviews
     title: Testimonials
