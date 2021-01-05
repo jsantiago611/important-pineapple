@@ -15,12 +15,6 @@
             {
                 "type": "action",
                 "template": "action",
-                "label": "Features",
-                "url": "/features"
-            },
-            {
-                "type": "action",
-                "template": "action",
                 "label": "Pricing",
                 "url": "/pricing"
             },
