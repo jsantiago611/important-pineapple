@@ -7,15 +7,14 @@ sections:
     template: section_hero
     title: 'Hello, I''m Jonathan'
     section_id: hero
-    content: >
+    content: >+
       **I take brief but concise notes from the best Christian non-fiction books
       of all-time. Then, in my weekly newsletter "The Progress Report", I share
-      the big ideas you can use to parent better and smarter.
+      the big ideas you can use to parent better and smarter.**
 
 
-      **I’m learning a lot and so will you.
+      **I’m learning a lot and so will you.**
 
-      ****
     image: images/hero.png
     image_alt: App preview
     actions:
